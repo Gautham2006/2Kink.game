@@ -1,0 +1,20 @@
+<html>
+<style>
+body {
+ background-image: url("2K.png");
+background-color: #cccccc;
+height: 500px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+</style>
+<h1 style=color:white><center>How to play</center></h1>
+
+<h1 style=color:white>All you need to do is use the arrow keys to move <br> left, right, up, and down and use the <br> space bars to shoot. <br> <br> click the play button to start game </h1>
+<br>
+<br>
+<br>
+<button onclick="window.location.href = 'file:///C:/Users/1744467/Documents/Gauthams%20new%20folder/war.html';"><h1>Play!<h1></button>
+</html>
